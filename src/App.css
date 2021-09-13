@@ -1,0 +1,18 @@
+
+.App{
+    margin: 10%;
+ background-color:#ecf0f1;
+ height: 500px;
+ box-shadow: 0px 0px 10px rgb(34, 33, 33);
+ display: flex;
+ padding: 10%;
+
+}
+
+.Alb1{
+    height: fit-content;
+    box-shadow: 0px 0px 10px rgb(34, 33, 33);
+    place-content: center;
+    margin-left: 10%;
+
+}
