@@ -1,4 +1,4 @@
-
+/* 
 .App{
     margin: 10%;
  background-color:#ecf0f1;
@@ -24,4 +24,8 @@ button{
 
 }
 
-
+ */
+body {
+    background-color: #f7f7f7;
+    font-family: "Helvetica Neue",sans-serif;
+      }
